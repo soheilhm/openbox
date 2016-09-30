@@ -1,0 +1,14 @@
+D:\git\cmx\OpenBox\OpenBox.BLL\bin\Debug\OpenBox.BLL.dll
+D:\git\cmx\OpenBox\OpenBox.BLL\bin\Debug\OpenBox.BLL.pdb
+D:\git\cmx\OpenBox\OpenBox.BLL\bin\Debug\OpenBox.DAL.dll
+D:\git\cmx\OpenBox\OpenBox.BLL\bin\Debug\OpenBox.DAL.pdb
+D:\git\cmx\OpenBox\OpenBox.BLL\obj\Debug\OpenBox.BLL.csprojResolveAssemblyReference.cache
+D:\git\cmx\OpenBox\OpenBox.BLL\obj\Debug\OpenBox.BLL.dll
+D:\git\cmx\OpenBox\OpenBox.BLL\obj\Debug\OpenBox.BLL.pdb
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.BLL\bin\Debug\OpenBox.BLL.dll
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.BLL\bin\Debug\OpenBox.BLL.pdb
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.BLL\bin\Debug\OpenBox.DAL.dll
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.BLL\bin\Debug\OpenBox.DAL.pdb
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.BLL\obj\Debug\OpenBox.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.BLL\obj\Debug\OpenBox.BLL.dll
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.BLL\obj\Debug\OpenBox.BLL.pdb

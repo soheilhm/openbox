@@ -1,0 +1,91 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+.header-basic-light{
+	padding: 1em 2em;
+	box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.15);
+	height: 80px;
+	background-color: hsla(208,56%,93%,1);
+}
+
+.header-basic-light .header-limiter {
+	max-width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+/* Logo */
+
+.header-basic-light .header-limiter h1{
+	float: left;
+	font: normal 3em Cookie, Arial, Helvetica, sans-serif;
+	line-height: 2em;
+	margin-top: -0.5em;
+}
+
+.header-basic-light .header-limiter h1 span {
+	color: #5383d3;
+}
+
+
+.header-basic-light .header-limiter a {
+	color: #5c616a;
+	text-decoration: none;
+}
+
+.header-basic-light .header-limiter nav{
+	font: 1em Arial, Helvetica, sans-serif;
+	line-height: 3em;
+	float: right;
+}
+
+.header-basic-light .header-limiter nav a{
+	display: inline-block;
+	padding: 0 0.5em;
+	opacity: 0.9;
+	text-decoration: none;
+	color: #5c616a;
+	line-height: 1;
+}
+
+.header-basic-light .header-limiter nav a.selected {
+	background-color: #86a3d5;
+	color: #ffffff;
+	border-radius: 0.5em;
+	padding: 0.5em 0.75em;
+}
+
+footer {
+	text-align: center;
+	padding: 1%;
+	background-color: #cedaee;
+}
+
+@media screen and (max-width: 600px) {
+
+	.header-basic-light {
+		padding: 20px 0;
+		height: 85px;
+	}
+
+
+
+	.header-basic-light .header-limiter h1 {
+		float: none;
+    border: 0.01em solid black;
+    margin: -0.5em 0 0.5em;
+    text-align: center;
+    font-size: 2em;
+    line-height: 1;
+	}
+
+	.header-basic-light .header-limiter nav {
+		font-size: 1.5em;
+		line-height: 1;
+		float:none;
+	}
+
+	.header-basic-light .header-limiter nav a {
+		font-size: 0.65em;
+	}
+
+}

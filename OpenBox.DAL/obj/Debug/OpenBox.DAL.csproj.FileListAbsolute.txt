@@ -1,0 +1,9 @@
+D:\git\cmx\OpenBox\OpenBox.DAL\bin\Debug\OpenBox.DAL.dll
+D:\git\cmx\OpenBox\OpenBox.DAL\bin\Debug\OpenBox.DAL.pdb
+D:\git\cmx\OpenBox\OpenBox.DAL\obj\Debug\OpenBox.DAL.dll
+D:\git\cmx\OpenBox\OpenBox.DAL\obj\Debug\OpenBox.DAL.pdb
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.DAL\bin\Debug\OpenBox.DAL.dll
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.DAL\bin\Debug\OpenBox.DAL.pdb
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.DAL\obj\Debug\OpenBox.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.DAL\obj\Debug\OpenBox.DAL.dll
+C:\Users\Soheil.h\Desktop\OpenBox\OpenBox.DAL\obj\Debug\OpenBox.DAL.pdb
